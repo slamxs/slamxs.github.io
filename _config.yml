@@ -10,7 +10,7 @@ title: 斯莱姆克斯的博客
 email: mocibb@163.com
 description: > # this means to ignore newlines until "baseurl:"
   记录SLAM学习心得
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://wildflame.me" # the base hostname & protocol for your site
 github_username:  mocibb
 
